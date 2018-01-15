@@ -4,8 +4,7 @@ Type "copyright", "credits" or "license()" for more information.
 hello world
 	
 >>> def asd(x):
-	return x + 1
+	return x + 1 + 1 + 1 + 0
 
 >>> print asd(1)
 2
->>> 
